@@ -1,0 +1,1 @@
+console.log("THIS IS PAYMENT OF JS")
