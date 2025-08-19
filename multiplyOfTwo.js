@@ -1,0 +1,1 @@
+console.log("THIS IS MULTIPLEYU OF TWO NUMBER")
